@@ -1,4 +1,4 @@
-# Android mitigations
+# macOS mitigations
 
 ![Publish macOS mitigations using Sphinx](https://github.com/tymyrddin/macos-mitigations/workflows/Publish%macOS%20mitigations%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/macos-mitigations/
