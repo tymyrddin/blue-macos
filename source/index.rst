@@ -13,3 +13,8 @@ macOS mitigations
    :caption: Malware
 
    docs/malware/README.md
+
+.. toctree::
+   :caption: Links
+
+   All mitigations <https://tymyrddin.github.io/mitigations/>
