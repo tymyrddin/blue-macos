@@ -13,6 +13,9 @@ macOS mitigations
    :caption: Malware
 
    docs/malware/README.md
+   docs/malware/myths.md
+   docs/malware/clean-machine.md
+   docs/malware/daemons-and-agents.md
 
 .. toctree::
    :caption: Links
