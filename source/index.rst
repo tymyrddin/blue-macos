@@ -16,6 +16,7 @@ macOS mitigations
    docs/malware/myths.md
    docs/malware/clean-machine.md
    docs/malware/daemons-and-agents.md
+   docs/malware/analysing-trojans.md
 
 .. toctree::
    :caption: Links
