@@ -9,14 +9,14 @@ Two of the most popular and significant tools used to secure networks are firewa
 With a firewall, you can:
 
 * Log hosts scanning services that aren't running.
-* Limit the services that programs can connect to.
+* Limit the services that applications can connect to.
 * Segregate the local network into trust segments (Local Area Network (LAN), DeMilitarised Zone (DMZ), and Internet).
 * Redirect ports to the hosts providing the service (Network address translation (NAT)).
 
 macOS has an [built-in firewall](https://support.apple.com/guide/mac-help/block-connections-to-your-mac-with-a-firewall-mh34041/mac), it is disabled by default, enable it with:
 
 * Go to System Preferences -> Security & Privacy
-* Vlick on the Firewall tab
+* Click on the Firewall tab
 * At the bottom of the window, click on the lock icon to enter your administrator password for changing the settings.
 * Click the option to Turn On Firewall
 
@@ -25,7 +25,8 @@ If you’d like to be more secure, install a firewall.
 * [Murus Lite](https://www.murusfirewall.com/) is an entry-stage firewall front end. It has inbound filtering and 
 recording and can be used to safeguard applications. Although it is free, Murus Lite isn’t attempting to test or 
 demonstrate. Instead, it is a fully-featured application that is a good beginning point for a new user.
-* [Scudo](https://www.murusfirewall.com/scudo/) is like a hybrid firewall for Mac that works as a combination of an outbound application-layer firewall and an inbound network-layer packet filter. The software offers enhanced protection to Mac’s network services from all the unwanted connections. It improves your privacy against remote computers trying to access your data through the network.
+* [Scudo](https://www.murusfirewall.com/scudo/) is a hybrid firewall for Mac that works as a combination of an outbound 
+application-layer firewall and an inbound network-layer packet filter. The software offers enhanced protection to Mac’s network services from all the unwanted connections. It improves your privacy against remote computers trying to access your data through the network.
 
 ## Choosing a HIDS for a Mac
 

@@ -1,6 +1,41 @@
 macOS mitigations
 ================================================
 
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Authentication
+
+   docs/authentication/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Services
+
+   docs/services/README.md
+   docs/services/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Data
+
+   docs/data/README.md
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Privacy
+
+   docs/privacy/README.md
+   docs/privacy/*
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -9,12 +44,19 @@ macOS mitigations
 
    docs/malware/README.md
    docs/malware/myths.md
-   docs/malware/attack-vectors.md
    docs/malware/clean-machine.md
    docs/malware/daemons-and-agents.md
    docs/malware/analysing-trojans.md
-   docs/malware/browsers.md
-   docs/malware/*
+
+.. toctree::
+   :glob:
+   :maxdepth: 1
+   :includehidden:
+   :caption: Social engineering
+
+   docs/social-engineering/README.md
+   docs/social-engineering/browsers.md
+   docs/social-engineering/check-mail.md
 
 .. toctree::
    :glob:

@@ -19,7 +19,7 @@ lightweight daemon on the computer which does not burn up too much CPU. Neither 
   * Signature-based Intrusion Detection System (SBIDS). An SBNIDS for example, tracks all the packets passing over the network and then compares them to a database containing attributes or signatures of familiar malicious threats.
   * Anomaly-based Intrusion Detection System (ABIDS). An ABNIDS for example, tracks the traffic of a network and then 
 compares it to an established measure (which could be machine learning based) and this allows the system to find what 
-is normal for the network in terms of Ports, Protocols, Bandwidth, and other devices, thereby quickly alerting 
+is normal for the network in terms of Ports, Protocols, Bandwidth, and other devices, and alerting 
 administrators about any unusual or potentially malicious activity in the network.
 
 ## IPS
