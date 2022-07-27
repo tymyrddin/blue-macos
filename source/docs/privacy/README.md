@@ -1,8 +1,6 @@
 # Introduction
 
-* Check Location services is turned off.
-* Check Guest User Account is disabled.
-* [Turning devices on and off](devices.md)
+* [Disable location services and other privacy settings](settings.md)
 
 ## Related attack trees
 

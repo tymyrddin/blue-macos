@@ -1,11 +1,9 @@
 # Introduction
 
-All linux distros let you control the services that run on your Linux installation, and you can make full use of this 
-customisation feature to enhance security. 
 
-* Restrict which apps can run
-* [Restrict access](restrict-access.md)
-* Check what you are sharing
+
+* [Restrict which apps can run](restrict-apps.md)
+* [System integration protection (SIP)](sip.md)
 
 ## Related attack trees
 

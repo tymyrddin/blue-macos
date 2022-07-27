@@ -19,10 +19,11 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Services
+   :caption: Services and applications
 
    docs/services/README.md
-   docs/services/*
+   docs/services/restrict-apps.md
+   docs/services/sip.md
 
 .. toctree::
    :glob:
@@ -42,7 +43,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    :caption: Privacy
 
    docs/privacy/README.md
-   docs/privacy/*
+   docs/privacy/settings.md
 
 .. toctree::
    :glob:
