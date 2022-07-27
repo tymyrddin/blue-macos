@@ -1,6 +1,8 @@
 macOS mitigations
 ================================================
 
+Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur has better security <https://www.endpointprotector.com/blog/macos-11-0-big-sur-security-and-privacy-changes-you-need-to-know/>`_. Some of the below is still applicable and useful. When we have a Big Sur set up we will test it, and split and update these mitigations.
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -29,7 +31,7 @@ macOS mitigations
    :caption: Data
 
    docs/data/README.md
-   docs/data/backup.md
+   docs/data/time-machine.md
    docs/data/disk-encryption.md
    docs/data/pwprotect.md
 
