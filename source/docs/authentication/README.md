@@ -1,7 +1,6 @@
 # Introduction
 
-* It is perhaps annoying to have to enter your password every boot, but it is a little price for
-preventing someone getting into your account and accessing your data.
+* Disable automatic login
 * Password protect sleep and screen saver mode.
 * Make that secure passwords.
 * Make a hot corner to turn screen saver on.
@@ -11,4 +10,5 @@ preventing someone getting into your account and accessing your data.
 ## Related attack trees
 
 * [Malware](attack-trees:docs/malware/README)
+* [Social engineering](attack-trees:docs/social-engineering/README)
 * [System](attack-trees:docs/system/README)

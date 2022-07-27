@@ -1,7 +1,6 @@
 macOS mitigations
 ================================================
 
-
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -9,6 +8,10 @@ macOS mitigations
    :caption: Authentication
 
    docs/authentication/README.md
+   docs/authentication/login.md
+   docs/authentication/resuming.md
+   docs/authentication/passwords.md
+   docs/authentication/password-manager.md
 
 .. toctree::
    :glob:
