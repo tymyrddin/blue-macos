@@ -16,7 +16,7 @@ other partition to store files.
   * The Time Machine partition must use the Mac OS Extended (Journaled) format.
   * The file storage partition can use any format. 
     * Choose ExFat if you plan to use it with Windows.
-    * Otherwise choose Mac OS Extended (Journaled).
+    * Otherwise, choose Mac OS Extended (Journaled).
 * Click Apply, followed by Partition.
 
 ## Set up time machine
@@ -26,7 +26,7 @@ other partition to store files.
 
 Time Machine backups will start from scratch from this date forward. After the first backup, you can automatically start 
 a backup with Time Machine (check the Backup Up Automatically box), or start a backup manually by accessing the Time 
-Machine menu and start the backup from there.
+Machine menu and starting the backup from there.
 
 ## Backups for the file storage partition
 
