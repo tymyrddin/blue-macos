@@ -29,6 +29,9 @@ macOS mitigations
    :caption: Data
 
    docs/data/README.md
+   docs/data/backup.md
+   docs/data/disk-encryption.md
+   docs/data/pwprotect.md
 
 .. toctree::
    :glob:

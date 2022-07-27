@@ -1,9 +1,8 @@
 # Introduction
 
-* Enable full disk encryption using FileVault
-* Make a vault
-* Password protect files and folders
-* Back up data
+* [Enable full disk encryption using FileVault](disk-encryption.md)
+* [Password protect files and folders](pwprotect.md)
+* [Regularly make backups](backup.md)
 
 ## Related attack trees
 
