@@ -14,6 +14,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/authentication/resuming.md
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
+   docs/authentication/mfa.md
 
 .. toctree::
    :glob:
