@@ -25,6 +25,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/services/README.md
    docs/services/restrict-apps.md
    docs/services/sip.md
+   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/messaging.md
 

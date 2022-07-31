@@ -2,6 +2,7 @@
 
 * [Restrict which apps can run](restrict-apps.md)
 * [System integration protection (SIP)](sip.md)
+* [Use a VPN service](vpn.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Use a secure messaging service](messaging.md)
 
