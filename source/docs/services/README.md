@@ -5,6 +5,7 @@
 * [Use a VPN service](vpn.md)
 * [Secure browsers that protect your privacy](browsers.md)
 * [Use a secure messaging service](messaging.md)
+* [Use a secure email service](email-services.md)
 
 ## Related attack trees
 

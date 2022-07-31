@@ -28,6 +28,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/services/vpn.md
    docs/services/browsers.md
    docs/services/messaging.md
+   docs/services/email-services.md
 
 .. toctree::
    :glob:
@@ -48,6 +49,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
 
    docs/privacy/README.md
    docs/privacy/settings.md
+   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -68,7 +70,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    :caption: Social engineering
 
    docs/social-engineering/README.md
-   docs/social-engineering/browsers.md
+   docs/social-engineering/browsing.md
    docs/social-engineering/check-mail.md
 
 .. toctree::
