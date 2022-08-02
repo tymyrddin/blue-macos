@@ -54,6 +54,10 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
 
    docs/privacy/README.md
    docs/privacy/settings.md
+   docs/privacy/metadata.md
+   docs/privacy/metadata-images.md
+   docs/privacy/hexeditors.md
+   docs/privacy/bleachbit.md
 
 .. toctree::
    :glob:
