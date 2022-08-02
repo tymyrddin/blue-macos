@@ -11,6 +11,9 @@
 * [Use a firewall as a VPN fail-safe mechanism](vpn-fail-open.md)
 * [Use alternative DNS servers](dns-servers.md)
 * [Use a Tor proxy](tor-proxy.md)
+* [Change MAC address](change-mac.md)
+* [Renew IP lease](renew-lease.md)
+* [Edit hosts file](edit-hosts-file.md)
 
 ## Related attack trees
 

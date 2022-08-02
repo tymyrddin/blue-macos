@@ -34,6 +34,9 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/services/vpn-fail-open.md
    docs/services/dns-servers.md
    docs/services/tor-proxy.md
+   docs/services/change-mac.md
+   docs/services/renew-lease.md
+   docs/services/edit-hosts-file.md
 
 .. toctree::
    :glob:
