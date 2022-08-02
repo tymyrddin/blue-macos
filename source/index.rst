@@ -15,6 +15,7 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/authentication/passwords.md
    docs/authentication/password-manager.md
    docs/authentication/mfa.md
+   docs/authentication//ssh-mfa.md
 
 .. toctree::
    :glob:
@@ -25,10 +26,14 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/services/README.md
    docs/services/restrict-apps.md
    docs/services/sip.md
-   docs/services/vpn.md
    docs/services/browsers.md
    docs/services/messaging.md
    docs/services/email-services.md
+   docs/services/ssh.md
+   docs/services/vpn.md
+   docs/services/vpn-fail-open.md
+   docs/services/dns-servers.md
+   docs/services/tor-proxy.md
 
 .. toctree::
    :glob:
@@ -49,7 +54,6 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
 
    docs/privacy/README.md
    docs/privacy/settings.md
-   docs/privacy/email-use.md
 
 .. toctree::
    :glob:
@@ -67,11 +71,14 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Social engineering
+   :caption: Operations security
 
-   docs/social-engineering/README.md
-   docs/social-engineering/browsing.md
-   docs/social-engineering/check-mail.md
+   docs/opsec/README.md
+   docs/opsec/email-use.md
+   docs/opsec/check-mail.md
+   docs/opsec/browsing.md
+   docs/opsec/integrity-downloads.md
+   docs/opsec/*
 
 .. toctree::
    :glob:
