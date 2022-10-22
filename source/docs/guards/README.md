@@ -43,10 +43,3 @@ it alerts the administrator that an unauthorised access or change has taken plac
 
 [OSSEC](ossec.md) monitors the checksum signatures of all the log files to detect possible interference and any 
 attempts to get to the root account.
-
-## Related attack trees
-
-* [Scanning](attack-trees:docs/scanning/README)
-* [Malware](attack-trees:docs/malware/README)
-* [System](attack-trees:docs/system/README)
-* [Network](https://tymyrddin.github.io/red-network/)

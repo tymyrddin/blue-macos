@@ -1,4 +1,4 @@
-macOS mitigations
+Hardening macOS
 ================================================
 
 Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur has better security <https://www.endpointprotector.com/blog/macos-11-0-big-sur-security-and-privacy-changes-you-need-to-know/>`_. Some of the below is still applicable and useful. When we have a Big Sur set up we will test it, and split and update these mitigations.
@@ -101,4 +101,4 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
 .. toctree::
    :caption: Links
 
-   All mitigations <https://tymyrddin.github.io/mitigations/>
+   Blue Team <https://tymyrddin.github.io/blue/>

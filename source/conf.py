@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'macOS mitigations'
+project = 'Hardening macOS'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -66,7 +66,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "macOS mitigations"
+html_title = "Hardening macOS"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
@@ -89,22 +89,6 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "attack-trees": ("https://tymyrddin.github.io/attack-trees/", None),
-    "cheatsheets": ("https://tymyrddin.github.io/cheatsheets/", None),
-    "e2ee-threat-model": ("https://tymyrddin.github.io/e2ee-threat-model/", None),
-    "da-threat-model": ("https://tymyrddin.github.io/da-threat-model/", None),
-    "se-threat-model": ("https://tymyrddin.github.io/se-threat-model/", None),
-    "app-threat-model": ("https://tymyrddin.github.io/app-threat-model/", None),
-    "cicd-threat-model": ("https://tymyrddin.github.io/cicd-threat-model/", None),
-    "app-mitigations": ("https://tymyrddin.github.io/app-mitigations/", None),
-    "linux-server-mitigations": ("https://tymyrddin.github.io/linux-server-mitigations/", None),
-    "data-mitigations": ("https://tymyrddin.github.io/data-mitigations/", None),
-    "webserver-mitigations": ("https://tymyrddin.github.io/webserver-mitigations/", None),
-    "mailserver-mitigations": ("https://tymyrddin.github.io/mailserver-mitigations/", None),
-    "network-mitigations": ("https://tymyrddin.github.io/network-mitigations/", None),
-    "linux-pc-mitigations": ("https://tymyrddin.github.io/linux-pc-mitigations/", None),
-    "windows-pc-mitigations": ("https://tymyrddin.github.io/windows-pc-mitigations/", None),
-    "android-mitigations": ("https://tymyrddin.github.io/android-mitigations/", None),
-    "ios-mitigations": ("https://tymyrddin.github.io/ios-mitigations/", None),
+    "blue": ("https://tymyrddin.github.io/blue/", None),
 }
 myst_url_schemes = ["http", "https", ]
