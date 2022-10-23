@@ -1,7 +1,7 @@
 # macOS mitigations
 
-![Publish macOS mitigations using Sphinx](https://github.com/tymyrddin/macos-mitigations/workflows/Publish%macOS%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/macos-mitigations/
+![Publish macOS mitigations using Sphinx](https://github.com/tymyrddin/blue-macos/workflows/Publish%macOS%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-macos/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/macos-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-macos/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+I WAS AT A PARTY, he added, a shade reproachfully. ~TP
