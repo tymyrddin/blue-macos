@@ -97,8 +97,3 @@ Version 0.1: These mitigations are all based on Catalina. Supposedly, `Big Sur h
    docs/guards/soup.md
    docs/guards/ids.md
    docs/guards/*
-
-.. toctree::
-   :caption: Links
-
-   Blue Team <https://blue.tymyrddin.dev/>
