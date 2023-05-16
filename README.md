@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-macos/badge/?version=latest)](https://blue.tymyrddin.dev/projects/macos/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/db527410-5ff6-410d-a089-bb6213442276/deploy-status)](https://app.netlify.com/sites/magenta-meringue-e455c7/deploys)
 
 ## Requirements
 
