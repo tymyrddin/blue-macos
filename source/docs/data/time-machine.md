@@ -1,4 +1,4 @@
-# Set up the time machine and backups
+# Set up the time machine and backups in macOS
 
 The Time Machine works by creating historic backups of your Mac. It keeps older copies of files even after you edit or 
 delete them, until a time when you need more storage for newer backups. Thanks to these historic backups, you can 
